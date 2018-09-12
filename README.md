@@ -1,0 +1,1 @@
+# Gmaps_odoo_integration
